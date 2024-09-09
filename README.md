@@ -1,5 +1,5 @@
 ## Hi there 👋
-[CV](https://github.com/user-attachments/files/16927956/Daria.Kuznetsova.Java.developer.en.pdf)
+[CV](https://github.com/user-attachments/files/16933498/Daria.Kuznetsova.Software.Engineer.pdf)
 
 <!--
 **ofgot/ofgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
