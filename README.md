@@ -1,4 +1,5 @@
 ## Hi there 👋
+[Daria Kuznetsova Java developer en.pdf](https://github.com/user-attachments/files/16927956/Daria.Kuznetsova.Java.developer.en.pdf)
 
 <!--
 **ofgot/ofgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
