@@ -1,6 +1,12 @@
-## Hi there 👋
-[CV](https://github.com/user-attachments/files/17633679/Software.Engineere.pdf)
+# Hi there 👋
 
+🇨🇿 **Settled:** Prague, Czech Republic <br>
+🎓 **Student:** Czech Technical University in Prague <br>
+💻 **Field:** Software engineering
+
+# Connect with me
+[![ofgot17@gmail.com](https://img.shields.io/badge/ofgot17@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ofgot17@gmail.com) 
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-kuznetsova-385354253/) 
 
 <!--
 **ofgot/ofgot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
