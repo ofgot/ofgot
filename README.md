@@ -3,6 +3,10 @@
 🎓 **Student:** Czech Technical University in Prague <br>
 💻 **Field:** Software engineering <br>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,cpp,js,spring,django,postgres,hibernate,css,html&theme=light)](https://skillicons.dev)
+
+
 ## Connect with me
 [![GmailBadge](https://img.shields.io/badge/ofgot17@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofgot17@gmail.com) 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-kuznetsova-385354253/) 
