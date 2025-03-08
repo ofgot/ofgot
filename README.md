@@ -1,4 +1,4 @@
-# Welcome to my page 👋
+# IH 👋
 🇨🇿 **Settled:** Prague, Czech Republic <br> 
 🎓 **Student:** Czech Technical University in Prague <br>
 💻 **Field:** Software engineering <br>
