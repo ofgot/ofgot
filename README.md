@@ -4,7 +4,7 @@
 💻 **Field:** Software engineering <br>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,php,cpp,js,spring,django,postgres,hibernate,css,html,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,cpp,kotlin,androidstudio,js,spring,django,postgres,hibernate,css,html,git&theme=light)](https://skillicons.dev)
 
 
 ## Connect with me
